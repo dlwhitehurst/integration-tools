@@ -17,7 +17,7 @@ On Windows there are two options for using Docker:
 
 Run via Docker Compose
 ```
-cd ${CDX_PROJECTS}/cdx-env-tools/docker
+cd ${MY_PROJECTS}/integration-tools/docker
 docker-compose up -d mariadb adminer
 ```
 
